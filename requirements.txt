@@ -13,3 +13,4 @@ pytz
 sqlparse
 typing_extensions
 tzdata
+gunicorn
